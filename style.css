@@ -66,7 +66,7 @@ main{
     margin-top: 25px;
     padding-left: 20px;
     position: fixed;
-    height:750px;
+    height:600px;
     resize:none;
 }
 .mensaje:focus{
@@ -104,7 +104,7 @@ main{
     cursor: pointer;
     height: 67px;
     margin-left: 108px;
-    margin-top: 700px;
+    margin-top: 550px;
     position: absolute;
     width: 336px
 }
