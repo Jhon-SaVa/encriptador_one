@@ -7,7 +7,7 @@
     overflow-y: hidden;
 }
 body{
-    background-image: url("/img/fondo.png");
+    background-image: url("img/fondo.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -56,7 +56,7 @@ main{
 }
 .mensaje{
     background: white;
-    background-image: url("/img/Muneco.png");
+    background-image: url("img/Muneco.png");
     background-repeat: no-repeat;
     background-position: center;
     border: none;
